@@ -1,2 +1,2 @@
-# CardGame-PrototypeMap
-卡牌游戏-原型图
+# CardGame
+卡牌游戏
